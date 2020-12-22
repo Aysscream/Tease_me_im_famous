@@ -1,0 +1,39 @@
+.search_bar{
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+li{
+    border: none !important;
+}
+li:hover{
+    border: solid 2px #fff !important;
+}
+.title_list_item{
+    padding-top: 40px;
+    text-align: center;
+}
+header h1{
+    margin-top: 20px;
+    text-shadow: 3px 2px 3px  rgb(95, 108, 211);
+    padding: 10px;
+    text-align: center;
+    color: #fff;
+}
+body{
+    background-image: url('../img/backgroundBody.jpg')
+}
+.descrip {
+    color: #fff;
+    text-align: justify;
+}
+.descrip h1{
+    text-align: center;
+    margin: 20px;
+}
+.box_shado{
+    box-shadow: 3px 2px 3px  rgb(95, 108, 211);
+}
+.sugg{
+    background-image: url('../img/fond2.jpg');
+    color: #fff;
+}
